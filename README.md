@@ -1,12 +1,7 @@
 Hi, I’m @TheNekoSan,
 
-As a graphic and motion designer, i'm interested in UI customization. 
-For some reasons (3D apps,…) I often need to use Windows rather than Mac.
+For some reasons (3D apps,…) I often need to use Windows rather than MacOS.
 
-My big problem is that I really hate Explorer icons (nasty yellow folders…) and fonts (Tahoma, Verdana, Segoe UI,…) 
-used by default in every Windows version since the 90's. Working (professionnaly) in this UI environment 
-is a real pain for me and unfortunatly with no more standard real tools or settings available to theme it…
+I have discovered that I really hate Explorer icons (nasty yellow folders…) and fonts (Tahoma, Verdana, Segoe UI,…) used in every Windows version since the 90's. But hopefully we can use tools as 7tsp to hack icons with our own sets!
 
-So, my current personnal "big" project is an alternative complete icon pack for Windows 11 using Dracula color set 
-to fit with most available Dracula themes (Special mention to Niivu Themes here).
-Working on it since two years it should be put here in some month. Hope you will find it useful ;-)
+So, I'm working on an alternative full icon pack for Windows 11 using Dracula color palette to fit with most Dark themes and with most available "Dracula themes" (Special mention to Niivu Themes here). It's still in a work in progress state, and I should put here in some month. Hope you will find it useful ;-)
